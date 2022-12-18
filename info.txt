@@ -1,0 +1,26 @@
+ =======================
+|	   Kleuren		|
+ =======================
+
+Rood navigatie: #D20000
+Navigatie hover: #D20000
+Groen navivatie: #007136
+Achtergrond soorten kerstbomen: #80BD92
+Soorten kerstbomen gele schaduw: #FC0
+
+ =======================
+|	   Fonts		|
+ =======================
+
+https://fonts.google.com/specimen/Nerko+One
+font-family: 'Nerko One', cursive;
+
+
+ =======================
+|	 Afbeeldingen	|
+ =======================
+
+Achtergrond afbeelding: /assets/img/bg.jpg
+Logo: 			/asstes/img/logo.png
+Soorten kerstbomen	/assets/img/boomnaam.png
+
